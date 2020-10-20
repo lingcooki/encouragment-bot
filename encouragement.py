@@ -49,3 +49,4 @@ while True:
   print()
   print(output)
   print()
+try putting full stop
