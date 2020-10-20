@@ -1,7 +1,7 @@
 print("Title of program: Encouragement bot")
 print()
 while True:
-  description = input("Could you describe how you feel in a sentence?")
+  description = input("Could you describe how you feel in a sentence please?")
 
   list_of_words = description.split()
 
